@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuDraGa
-- 👀 I’m interested in dapps, design and machine learning in biomedics
-- 🌱 I’m currently learning react and dapps
-- 💞️ I’m looking to collaborate on interesting ui, backend or cloud dev opportunities or any game or dapp dev opportunities
-- 📫 How to reach me ...
+- 👀 I’m interested in generative tech in voice, vision and diffusion ai
+- 🌱 I’m currently building tools using sd, gpts and elevenLabs.
+- 💞️ I’m looking to collaborate on interesting problems with no concrete solutions
+- 📫 How to reach me abhirooprasad@gmail.com
 
 <!---
 LuDraGa/LuDraGa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
