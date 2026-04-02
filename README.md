@@ -7,7 +7,7 @@
 ---
 ### ☕ Support my work
 If you find my open-source projects or automation tools helpful, feel free to support my caffeine intake:
-
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abhiroopprasad)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhiroopraa)
 
 <!---
