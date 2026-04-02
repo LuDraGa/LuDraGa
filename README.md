@@ -20,7 +20,7 @@
           <img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi">
         </a>
       </td>
-      <td>
+      <!-- <td>
         <a href="https://buymeacoffee.com/abhiroopraa" target="_blank">
           <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
         </a>
@@ -29,7 +29,7 @@
         <a href="PayPal.Me/abhiroopprasad" target="_blank">
           <img src="https://img.shields.io/badge/-PayPal-003087?style=flat&logo=paypal&logoColor=white" alt="PayPal"/>
         </a>
-      </td>
+      </td> -->
     </tr>
     
   </table>
