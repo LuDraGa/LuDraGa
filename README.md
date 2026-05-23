@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LuDraGa | [Full-stack AI Engineer & Consultant](https://www.abhiroop.me)
+- 👋 Hi, I’m @LuDraGa | [Full-stack AI Engineer & Consultant](https://www.abhiroop.me/work)
 - 👀 I’m interested in generative tech in voice, vision and diffusion ai
-- 🌱 I’m currently building tools using sd, gpts and elevenLabs.
-- 💞️ I’m looking to collaborate on interesting problems with no concrete solutions
+- 🌱 I’m currently workgin with agentic orchestration for platforms and deep-RAG on enterprise data
+- 💞️ I’m looking to collaborate on Hitl[human in the loop] agentic orchestration solution for real biz usecases.
 - 📫 Reach me: abhirooprasad@gmail.com or [Schedule a Call](https://cal.com/abhiroop-prasad/30min)
 
 ---
