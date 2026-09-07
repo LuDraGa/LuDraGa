@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuDraGa | [Full-stack AI Engineer & Consultant](https://www.abhiroop.me/work)
+- 👋 Hi, I’m Abhiroop Prasad | [Full-stack AI Engineer & Consultant](https://www.abhiroop.me/work)
 - 👀 I’m like building production agents with multi-modal comprehension, retrieval and generation.
 - 🌱 I’m currently working with agentic orchestration for platforms and deep-RAG on enterprise data
 - 💞️ I’m looking to collaborate on Hitl[human in the loop] agentic orchestration solution with proactive, suggestive and reactive agentic interactions.
